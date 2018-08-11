@@ -1,7 +1,13 @@
 # FriendFinder
 
+SCREEN SHOTS:
+
 Image 1:  Screenshot of styled home page
-![Alt Text]("../public/images/image1.jpg")
+
+<a target="_blank" href="DannySprouse/FriendFinder/blob/master/app/public/images/image1.jpg">
+<img src="/DannySprouse/FriendFinder/raw/master/app/public/images/image1.jpg" alt="screen shot" style="max-width:100%;">
+</a>
+
 
 Image 2:  Screenshot of styled survey page
 <img src="../public/images/image2.jpg" />
