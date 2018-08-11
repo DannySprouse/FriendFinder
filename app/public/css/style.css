@@ -1,0 +1,63 @@
+.header {
+    background-color: #edc7b7; text-align: center;
+}
+
+.jumbotron {
+    background-color: #edc7b7;
+}
+
+#matchImg {
+    max-width: 300px;
+}
+
+body {
+    background-color: #eee2dc;
+    padding-top: 10px;
+}
+
+h1, h2 {
+    color: #123c69;
+}
+
+.buttonClick {
+    background-color: #ac3b61;
+    color: #edc7b7;
+}
+
+.fa-clipboard-list, .fa-check-circle {
+    color: #edc7b7;
+}
+
+.russo {
+    font-family: 'Russo One', sans-serif;
+}
+
+p.footer {
+
+    color: #123c69;
+}
+
+.shading {
+    color: #ac3b61;
+}
+
+.social-icons {
+    padding-right: 10px;
+    padding-left: 2px;
+}
+
+.fa-linkedin, .fa-github, .fa-twitter, .fa-facebook, .fa-pinterest, .fa-500px {
+    color: #123c69;
+  }
+
+  .headerSurvey {
+      padding: 25px;
+  }
+
+.instruct {
+    background-color: #edc7b7;
+}
+
+#line {
+    width: 75%;
+}
