@@ -1,7 +1,7 @@
 # FriendFinder
 
 Image 1:  Screenshot of styled home page
-<img src="../public/images/image1.jpg" />
+![Alt Text]("../public/images/image1.jpg")
 
 Image 2:  Screenshot of styled survey page
 <img src="../public/images/image2.jpg" />
